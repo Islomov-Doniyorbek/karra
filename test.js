@@ -1,5 +1,5 @@
-let questionLimit = 60;
-let bal = 2;
+let questionLimit = 25;
+let bal = 4;
 
 const quiz = [
     {
