@@ -362,7 +362,7 @@ const quiz = [
     },
     {
         q: "8x5",
-        option: [48,36,48],
+        option: [48,36,40],
         answer:2,
     },
     {
