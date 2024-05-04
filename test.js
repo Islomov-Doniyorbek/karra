@@ -331,7 +331,7 @@ const quiz = [
     },
     {
         q: "7x10",
-        option: [35,63,17],
+        option: [35,70,17],
         answer:1,
     },
     {
